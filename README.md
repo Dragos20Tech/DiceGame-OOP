@@ -5,3 +5,7 @@ gave me a bit of cognitive dissonance, but in the end I understand what's going 
 
 You are playing against the computer, with the objective of reaching a score of zero to win the game. Simply press any key on your keyboard, 
 and a message will appear indicating the result, instructing you to keep playing until you achieve victory or are defeated.
+
+## Play the game
+
+If you want to play the game, you can use these links : https://www.online-python.com or https://www.programiz.com/python-programming/online-compiler/ and copy the code from main.py file.
